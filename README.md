@@ -1,2 +1,2 @@
 # English
-like.md(like.md)
+[like.md](like.md)
