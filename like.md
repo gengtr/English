@@ -25,3 +25,14 @@ int main(){
 1. aaa
 2. bbb
 3. ccc
+
+| name | age  |
+| ---- | ---- |
+| lili | 8    |
+
+_hello_
+__hello__
+
+~~delete~~
+
+------
